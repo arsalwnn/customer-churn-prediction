@@ -93,9 +93,24 @@ customer-churn-prediction/
 ├── requirements.txt
 └── .gitignore
 ```
+## 🏆 Results
+
+| Model | Accuracy | RMSE |
+|---|---|---|
+| Decision Tree | 93.33% | 0.258 |
+| Random Forest | 93.33% | 0.258 |
+| Logistic Regression | 86.98% | 0.361 |
+| KNN | 93.17% | 0.261 |
+| Voting Classifier | **93.49%** | **0.255** |
+
+> Best model: **Voting Classifier** with 93.49% accuracy
+---
+## 📊 Model Comparison
+
+![Accuracy Score](screenshots/Accuracy_score.png)
+![RMSE Score](screenshots/RMSE_score.png)
 
 ---
-
 ## 👤 Author
 
 **AmirArsalan Rezaianzadeh**  
