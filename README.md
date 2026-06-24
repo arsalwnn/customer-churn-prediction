@@ -93,6 +93,12 @@ customer-churn-prediction/
 ├── requirements.txt
 └── .gitignore
 ```
+## 📊 Model Comparison
+
+![Accuracy Score](screenshots/Accuracy_score.png)
+![RMSE Score](screenshots/RMSE_score.png)
+
+---
 ## 🏆 Results
 
 | Model | Accuracy | RMSE |
@@ -105,12 +111,7 @@ customer-churn-prediction/
 
 > Best model: **Voting Classifier** with 93.49% accuracy
 ---
-## 📊 Model Comparison
 
-![Accuracy Score](screenshots/Accuracy_score.png)
-![RMSE Score](screenshots/RMSE_score.png)
-
----
 ## 👤 Author
 
 **AmirArsalan Rezaianzadeh**  
